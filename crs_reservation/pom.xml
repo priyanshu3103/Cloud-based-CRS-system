@@ -13,11 +13,11 @@
     </parent>
 
     <groupId>com.crshotel</groupId>
-    <artifactId>crs_reservation</artifactId>
+    <artifactId>crs-hotel</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>crs_reservation</name>
+    <name>crs_hotel</name>
     <description>Spring Boot + React - WAR for Tomcat Deployment</description>
 
     <properties>
@@ -74,7 +74,7 @@
     </dependencies>
 
     <build>
-        <finalName>crs_reservation</finalName>
+        <finalName>crs-hotel</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
